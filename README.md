@@ -1,2 +1,2 @@
-# proba
-Opis našeg projekta
+# proba - projekt na GitHubu
+Opis našeg projekta..
